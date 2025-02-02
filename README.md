@@ -1,5 +1,5 @@
 Hi there! I'm Yash Gupta 👋
-
+![Demo](Intro.gif)
 ✨ About Me
 
 I am a passionate Software Engineer with experience in full-stack development, DevOps, and backend optimization. I love working on React.js, Node.js, Java, Spring Boot, PostgreSQL, and DevOps tools like Docker and Kubernetes.

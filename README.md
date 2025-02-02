@@ -17,4 +17,5 @@ Buy Me A Coffee
 ⏳ Longest streak is 10 days
 
 📈 my github stats
+![image](https://github.com/user-attachments/assets/3fb207d3-8d11-456b-8936-afccc071eed7)
 

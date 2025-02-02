@@ -1,21 +1,103 @@
-📊 this week i spent my time on:
+Hi there! I'm Yash Gupta 👋
 
-TypeScript   43 hrs 51 mins  ████████████████████████▓   98.52 %
-Python       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-SCSS         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+✨ About Me
 
-Buy Me A Coffee
+I am a passionate Software Engineer with experience in full-stack development, DevOps, and backend optimization. I love working on React.js, Node.js, Java, Spring Boot, PostgreSQL, and DevOps tools like Docker and Kubernetes.
 
-🚧 my todoist stats:
+🎓 B.Tech in Computer Science & Engineering from JK Institute of Applied Physics and Technology
 
-🏆 8,004 Karma Points
-🌸 Completed 0 tasks today
-✅ Completed 673 tasks so far
-⏳ Longest streak is 10 days
+💪 Passionate about System Design, Microservices, and Scalable Web Applications
 
-📈 my github stats
-![image](https://github.com/user-attachments/assets/3fb207d3-8d11-456b-8936-afccc071eed7)
+🌟 Enthusiastic problem solver, solved 400+ DSA problems on LeetCode
+
+⚖️ Believer in Test-Driven Development (TDD) and CI/CD automation
+
+💪 Skills & Technologies
+
+Frontend:
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+    
+
+Backend:
+
+    
+
+Database & DevOps:
+
+      
+
+Testing & Agile:
+
+    
+
+📚 Experience
+
+Software Engineer (Client: Societe Generale)
+
+Ekaggata Technologies, Bangalore (Jan 2024 - Present)
+
+Developed Micro-frontend architecture using React.js & Webpack, reducing page load times by 40%
+
+Integrated RabbitMQ message queues for seamless inter-service communication
+
+Designed optimized PostgreSQL schemas reducing query execution time by 30%
+
+Implemented Test-Driven Development (TDD) using Jest, Cypress, JUnit, Karate, and FitNesse
+
+Software Engineer - Cisco Systems
+
+(Oct 2022 - Oct 2023)
+
+Improved network performance by eliminating redundant calls, reducing latency by 25%
+
+Refactored Node.js modules, eliminating 80% deprecative NPM warnings
+
+Enhanced REST API reliability with health checks, decreasing downtime by 35%
+
+Software Engineer Trainee - Monotype Solutions
+
+(Mar 2022 - Sept 2022)
+
+Developed missing font functionality for Adobe Acrobat DC
+
+Worked with C++ background services and conducted unit testing using Jest
+
+Built CI/CD pipelines in Jenkins, automating deployments on AWS
+
+🛠️ Projects
+
+🚀 Flyaway (Flight Booking Portal)
+
+Tech Stack: JSP, Servlets, MySQL
+
+Achieved 30% faster query performance through MySQL indexing
+
+🌟 Sporty Shoes (E-commerce App)
+
+Tech Stack: Spring Boot, Hibernate, MySQL
+
+Created custom admin panel, reducing manual tasks by 50%
+
+🛒 Full-stack E-commerce App
+
+Tech Stack: React.js, Express.js, MongoDB, Tailwind CSS
+
+Improved page load speed by 30%, reducing bounce rate by 10%
+
+🏆 Achievements & Interests
+
+✅ Qualified GATE 2022 in Computer Science
+
+✅ Solved 400+ DSA problems on LeetCode
+
+✅ Received Recognition Letter from Cisco for outstanding contributions
+
+👤 Connect With Me
+
+
+
+
+
+
 

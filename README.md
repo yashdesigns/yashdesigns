@@ -1,16 +1,20 @@
-## Hi there 👋
+📊 this week i spent my time on:
 
-<!--
-**yashdesigns/yashdesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TypeScript   43 hrs 51 mins  ████████████████████████▓   98.52 %
+Python       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+SCSS         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-Here are some ideas to get you started:
+Buy Me A Coffee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 my todoist stats:
+
+🏆 8,004 Karma Points
+🌸 Completed 0 tasks today
+✅ Completed 673 tasks so far
+⏳ Longest streak is 10 days
+
+📈 my github stats
+
